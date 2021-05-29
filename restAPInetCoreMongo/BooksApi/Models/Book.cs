@@ -6,12 +6,11 @@ namespace BooksApi.Models
 {
     public class Book
     {
-        [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
         public string Id { get; set; }
 
         [BsonElement("Name")]
-        [JsonProperty("MyJsonName")]
+        [JsonProperty("Title")]
         public string BookName { get; set; }
 
         public decimal Price { get; set; }

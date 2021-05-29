@@ -56,7 +56,8 @@ namespace BooksApi.Controllers
             return NoContent();
         }
 
-        [HttpDelete("{id:length(24)}")]
+        //[HttpDelete("{id:length(24)}")]
+        [HttpDelete]
         public IActionResult Delete(string id)
         {
             var book = _bookService.Get(id);

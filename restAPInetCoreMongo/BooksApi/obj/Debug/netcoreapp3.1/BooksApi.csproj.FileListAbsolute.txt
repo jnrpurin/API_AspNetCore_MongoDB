@@ -36,3 +36,8 @@ D:\Projetos\restAPInetCoreMongo\BooksApi\bin\Debug\netcoreapp3.1\Microsoft.AspNe
 D:\Projetos\restAPInetCoreMongo\BooksApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 D:\Projetos\restAPInetCoreMongo\BooksApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\Projetos\restAPInetCoreMongo\BooksApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Projetos\restAPInetCoreMongo\BooksApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Projetos\restAPInetCoreMongo\BooksApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projetos\restAPInetCoreMongo\BooksApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projetos\restAPInetCoreMongo\BooksApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projetos\restAPInetCoreMongo\BooksApi\obj\Debug\netcoreapp3.1\BooksApi.MvcApplicationPartsAssemblyInfo.cs
